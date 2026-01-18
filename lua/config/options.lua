@@ -2,4 +2,5 @@ vim.opt.number = true
 vim.opt.cursorline = true
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
+vim.opt.completeopt = { "menuone", "noselect", "popup" }
 
